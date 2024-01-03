@@ -1,0 +1,48 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1703283942529,
+      "tag": "0000_wooden_stranger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703555441778,
+      "tag": "0001_strange_vertigo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1703555932296,
+      "tag": "0002_shallow_leo",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1703791563365,
+      "tag": "0003_amused_raider",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1703791641080,
+      "tag": "0004_slimy_mongu",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1703792007029,
+      "tag": "0005_glamorous_doomsday",
+      "breakpoints": true
+    }
+  ]
+}
